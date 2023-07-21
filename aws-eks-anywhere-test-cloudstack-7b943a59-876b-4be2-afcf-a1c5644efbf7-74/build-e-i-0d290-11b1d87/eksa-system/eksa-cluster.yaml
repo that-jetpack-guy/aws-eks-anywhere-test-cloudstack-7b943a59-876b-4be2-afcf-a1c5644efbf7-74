@@ -39,7 +39,7 @@ spec:
   managementCluster:
     name: build-e-i-0d290-11b1d87
   workerNodeGroupConfigurations:
-  - count: 3
+  - count: 1
     machineGroupRef:
       kind: CloudStackMachineConfig
       name: build-e-i-0d290-11b1d87
